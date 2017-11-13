@@ -1,0 +1,26 @@
+{
+  "name": "koa-study",
+  "version": "1.0.0",
+  "description": "koa study",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caob1234/koa-study.git"
+  },
+  "keywords": [
+    "123456"
+  ],
+  "author": "caob1234",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caob1234/koa-study/issues"
+  },
+  "homepage": "https://github.com/caob1234/koa-study#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "koa": "^2.4.1"
+  }
+}
